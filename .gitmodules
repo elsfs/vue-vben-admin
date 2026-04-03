@@ -1,0 +1,3 @@
+[submodule "apps/elsfs-system-ele"]
+	path = apps/elsfs-system-ele
+	url = https://github.com/elsfs/elsfs-system-ele
