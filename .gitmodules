@@ -1,3 +1,11 @@
 [submodule "apps/elsfs-system-ele"]
 	path = apps/elsfs-system-ele
 	url = https://github.com/elsfs/elsfs-system-ele
+
+[submodule "apps/elsfs-system-nuxt"]
+	path = apps/elsfs-system-nuxt
+	url = https://github.com/elsfs/web-ele-nuxt
+
+[submodule "apps/api-types"]
+	path = apps/api-types
+	url = https://github.com/elsfs/api-types
